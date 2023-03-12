@@ -15,6 +15,6 @@
 <br/><br/>
 
 ## 2020-2 게임px디자인 Term Project
-- Title: 고삼 생존기
+- Title: 고생존기
 - Engine: UnrealEngine4
 - Type: Simulation game
